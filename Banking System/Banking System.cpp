@@ -8,7 +8,7 @@ You must place the Users.txt file in the project file...
 To enter the system for the first time...Use:
 
 Username: Admin
-Password: 0000
+Password: 1234
 
 
 Instructions:-
