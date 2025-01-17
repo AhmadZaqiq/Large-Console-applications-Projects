@@ -1,0 +1,9 @@
+﻿  Banking System.cpp
+D:\C++ && C#\Banking System\Banking System.cpp(62,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Banking System\Banking System.cpp(587): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\C++ && C#\Banking System\Banking System.cpp(642): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\C++ && C#\Banking System\Banking System.cpp(864): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\C++ && C#\Banking System\Banking System.cpp(923): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\C++ && C#\Banking System\Banking System.cpp(1076): warning C4715: 'UpdateClientAmountDepositByAccountNumber': not all control paths return a value
+D:\C++ && C#\Banking System\Banking System.cpp(1133): warning C4715: 'UpdateClientAmountWithdrawByAccountNumber': not all control paths return a value
+  Banking System.vcxproj -> D:\C++ && C#\Banking System\x64\Debug\Banking System.exe
