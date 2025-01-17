@@ -15,3 +15,5 @@ This project is a Banking System simulation developed in C++.
 - **Transactions Menu**: 
   - Perform banking operations such as deposits, withdrawals, and transfers.
   - Transactions are logged in a file for each client.
+  - **Important Note**: To enter the system for the first time...Use:
+Account Number: A150, PinCode       : 1234
