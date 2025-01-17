@@ -1,5 +1,0 @@
-﻿  ConsoleApplication101.cpp
-D:\C++\ConsoleApplication101\ConsoleApplication101\clsDate.h(38,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-D:\C++\ConsoleApplication101\ConsoleApplication101\clsDate.h(170,11): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
-D:\C++\ConsoleApplication101\ConsoleApplication101\clsDate.h(693): warning C4715: 'clsDate::GetCurrentTime': not all control paths return a value
-  ConsoleApplication101.vcxproj -> D:\C++\ConsoleApplication101\x64\Debug\ConsoleApplication101.exe
