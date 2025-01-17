@@ -1,0 +1,32 @@
+﻿  Secure Object-Oriented Banking System with Currency Exchanger.cpp
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsString.h(158,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsString.h(179,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsString.h(203,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsString.h(232,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsString.h(269,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsString.h(274,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsDate.h(41,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsDate.h(173,11): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsUser.h(163,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginLogs' now defined to be 'public', previously it was defined to be 'private'
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsUser.h(18,9): message : see declaration of 'clsUser::stLoginLogs'
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsBankClient.h(189,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsBankClient.h(20,9): message : see declaration of 'clsBankClient::stTransferLog'
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsAddNewClientScreen.h(30,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsUpdateClientScreen.h(30,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsDepositScreen.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsWithdrawScreen.h(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsTotalBalances.h(63,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsTransfer.h(55,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsFindCurrencyScreen.h(44,13): warning C4129: 'C': unrecognized character escape sequence
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsFindCurrencyScreen.h(49,13): warning C4129: 'C': unrecognized character escape sequence
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsFindCurrencyScreen.h(64,12): warning C4129: 'C': unrecognized character escape sequence
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsFindCurrencyScreen.h(69,12): warning C4129: 'C': unrecognized character escape sequence
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsUpdateCurrencyRate.h(18,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsCalculatorScreen.h(91,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsLoginScreen.h(58): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsDate.h(696): warning C4715: 'clsDate::GetCurrentTime': not all control paths return a value
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsBankClient.h(381): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsCurrency.h(157): warning C4715: 'clsCurrency::FindByCode': not all control paths return a value
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsUser.h(350): warning C4715: 'clsUser::Save': not all control paths return a value
+D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\clsCurrency.h(188): warning C4715: 'clsCurrency::FindByCountry': not all control paths return a value
+  Secure Object-Oriented Banking System with Currency Exchanger.vcxproj -> D:\C++ && C#\Secure Object-Oriented Banking System with Currency Exchanger\x64\Debug\Secure Object-Oriented Banking System with Currency Exchanger.exe
