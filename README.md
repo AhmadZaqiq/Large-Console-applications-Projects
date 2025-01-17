@@ -42,28 +42,28 @@ This project simulate a secure object-oriented banking system with a currency ex
 
 - **Client Management**:
 
-Add, update, search, and delete client information.
-Track client details such as balances and transaction history.
-View and manage clients in a user-friendly interface.
+  -Add, update, search, and delete client information.
+  -Track client details such as balances and transaction history.
+  -View and manage clients in a user-friendly interface.
 - **User Management**:
 
-Add, update, and manage user accounts (admin and regular users).
-Secure login system with encrypted passwords to protect sensitive user data.
+  -Add, update, and manage user accounts (admin and regular users).
+  -Secure login system with encrypted passwords to protect sensitive user data.
 - **Currency Exchange**:
 
-Add, update, and manage available currencies.
-Set and modify exchange rates between different currencies.
-Convert currency between supported types.
+  -Add, update, and manage available currencies.
+  -Set and modify exchange rates between different currencies.
+  -Convert currency between supported types.
 - **Banking Transactions**:
 
-Perform deposit, withdrawal, and transfer of funds between clients.
-Track client balances and transaction histories.
-Ensure accurate transaction processing and validation.
+  -Perform deposit, withdrawal, and transfer of funds between clients.
+  -Track client balances and transaction histories.
+  -Ensure accurate transaction processing and validation.
 - **Transaction Logs**:
 
-Maintain a log of all transactions, including deposits, withdrawals, transfers, and currency conversions.
-Logs are stored securely for auditing and record-keeping.
+  -Maintain a log of all transactions, including deposits, withdrawals, transfers, and currency conversions.
+  -Logs are stored securely for auditing and record-keeping.
 - **Ticketing System**:
 
-A login system to ensure that only authorized users can access the banking system.
-User passwords are encrypted before being stored to ensure security.
+-A login system to ensure that only authorized users can access the banking system.
+-User passwords are encrypted before being stored to ensure security.
