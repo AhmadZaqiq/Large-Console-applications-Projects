@@ -66,3 +66,5 @@ This project simulate a secure object-oriented banking system with a currency ex
 
 - A login system to ensure that only authorized users can access the banking system.
 - User passwords are encrypted before being stored to ensure security.
+- **Important Note**: To enter the system for the first time...Use:
+  Username: Admin, Password:       : 0000
